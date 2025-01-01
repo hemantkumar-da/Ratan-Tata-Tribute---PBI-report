@@ -9,3 +9,10 @@ Dashboard Features :
 Visualization of Tata Group's Growth
 Live Tata Stock price trends
 Achievements of Ratan Tata
+
+**Features used in PBI:
+Bookmark
+Page Navigation
+Tree Map
+Table 
+Word Cloud**
